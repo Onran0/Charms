@@ -1,2 +1,2 @@
 # Charms
-The Simple ModLoader for old versions of Minecraf
+The Simple ModLoader for old versions of Minecraft
