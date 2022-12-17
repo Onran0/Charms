@@ -22,9 +22,9 @@ Charms is simple ModLoader for old versions of Minecraft
 
 ## **Installation**
 ### Client
-- Install JRE or JDK version 9+ (Recommended [Azul Zulu]([https://github.com/MrOnran/Charms/releases/tag/MC-Beta-1.6.6/](https://www.azul.com/downloads/)))
+- Install JRE or JDK version 9+
 - Download the required release
-
+(Recommended [Azul Zulu]([https://github.com/MrOnran/Charms/releases/tag/MC-Beta-1.6.6/](https://www.azul.com/downloads/))
 
 - Unzip it to some folder
 - If there is a start.bat file in the folder, start the game by opening this file. If there is no such file, open the JAR of the game
