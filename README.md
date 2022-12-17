@@ -56,7 +56,6 @@ Charms is simple ModLoader for old versions of Minecraft
 
 - Select a directory to export
 ### **Necessarily**
-- Create a description.txt file and write a description for your mod there
 - Create a **description.txt** file and write a description for your mod there
 
 
