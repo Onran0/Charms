@@ -35,14 +35,14 @@ Charms is simple ModLoader for old versions of Minecraft
 ## **Mod Development**
 ### **Development**
 #### **- Eclipse (Recommended)**
-- Download eclipse from https://www.eclipse.org
+- Download  [Eclipse](https://www.eclipse.org)
 - From the IDE selection menu, select **Eclipse IDE for java developers**
 - Create a new workspace
 - Create a new project using java version **JavaSE-1.8**
 - Download the desired release and extract it to some folder
 
 
-- Select your project, then in the top menu click **Project**, then **Properties**, then **Java Build Path**, then **Libraries,** then **Add External JARS**, and select the root JAR of the desired release, and click button **Apply And Close**. 
+- Select your project, then in the top menu click **Project**, then **Properties**, then **Java Build Path**, then **Libraries,** then **Add External JARs**, and select the root JAR of the desired release, and click button **Apply And Close**. 
 ##### ***NOTE: The root JAR of a release, named after its type: mc-(version) charms-(version)***
 - Create a new class inherited from com.charms.mod.Mod
 - Add standard methods onEnable and onDisable
