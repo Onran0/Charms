@@ -18,10 +18,10 @@ Charms is simple ModLoader for old versions of Minecraft
 ### **Java Edition**
 | Version | Client | Server |
 |:-:|:-:|:-:|
-| `Beta 1.6.6` | [Releases](https://github.com/MrOnran/Charms/releases/tag/MC-Beta-1.6.6/) | - |
-| `Beta 1.7.3` | - | - |
-| `Beta 1.8` | - | - |
 | `Beta 1.9` | - | - |
+| `Beta 1.8` | - | - |
+| `Beta 1.7.3` | - | - |
+| `Beta 1.6.6` | [Releases](https://github.com/MrOnran/Charms/releases/tag/MC-Beta-1.6.6/) | - |
 
 ## **Installation**
 ### Client
