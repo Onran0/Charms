@@ -49,7 +49,7 @@ Charms is simple ModLoader for old versions of Minecraft
 ##### ***NOTE: The root JAR of a release, named after its type: mc-(version) charms-(version)***
 - Create a new class inherited from tk.charms.mod.Mod
 - Add standard methods onEnable and onDisable
-- Familiarize yourself with the API ( which is not... )
+- Familiarize yourself with the documentation
 - Create
 
 ### **Building**
