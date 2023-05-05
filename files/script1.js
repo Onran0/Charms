@@ -19,3 +19,7 @@ function github() {
 function githubdocs() {
    window.open("https://github.com/Onran0/Charms/blob/main/README.md", "", "width=10000,height=10000")
 }
+
+function newTab(url) {
+  window.open(url,'_blank').focus();
+}
