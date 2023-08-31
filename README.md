@@ -22,7 +22,7 @@ Charms is simple ModLoader for old versions of Minecraft
 
 ## **Installation**
 ### Client
-- Install JRE or JDK version 8+ (You can also install Java 7-6, but we do not recommend it, since everyone is switching to 8)
+- Install JRE or JDK version 8+ (You can also install Java 7-6, but we do not recommend it, since everyone is switching to 8 and some errors may occur)
 #### ***RECOMMENDED: [Azul Zulu](https://www.azul.com/downloads/)***
 - Download the required release
 
@@ -39,7 +39,7 @@ Charms is simple ModLoader for old versions of Minecraft
 - From the IDE selection menu, select **Eclipse IDE for java developers**
 - Create a new workspace
 - Create a new project using java version **JavaSE-1.8 (or JavaSE-1.6 if you want to create a mod for an older Java version)**
-- Download the desired release and extract it to some folder
+- Download the desired charms release and extract it to some folder
 
 
 - Select your project, then in the top menu click **Project**, then **Properties**, then **Java Build Path**, then **Libraries,** then **Add External JARs**, and select the root JAR of the desired release, and click button **Apply And Close**. 
