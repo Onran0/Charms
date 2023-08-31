@@ -69,19 +69,20 @@ ___
 ####    "allow_server" : true/false
 #### }
 ___
-- Copy some mod icon to mod **.jar** and write his image to **mod.json** property **mod_icon_path**
+- Copy some mod icon to mod **.jar** and write his image path to **mod.json** property **mod_icon_path**
 ## **For Mod only**
 ### **NOT REQUIRED BUT RECOMMENDED!**
 - Create an **blocks.json** file, and write the following lines there:
 ___
 #### [
 ####    // here write your blocks in JSON format with:
-####    // {
+####    {
 ####    //  block in JSON
-####    // },
-####    // {
+####    },
+
+####    {
 ####    //  block in JSON
-####    // } 
+####    } 
 ####    // and etc.
 #### ]
 ___
@@ -99,12 +100,13 @@ ___
 ___
 #### [
 ####    // here write your items in JSON format with:
-####    // {
+####    {
 ####    //  item in JSON
-####    // },
-####    // {
+####    },
+
+####    {
 ####    //  item in JSON
-####    // } 
+####    } 
 ####    // and etc.
 #### ]
 ___
@@ -120,12 +122,13 @@ ___
 ___
 #### [
 ####    // here write your mod localizes in JSON format with:
-####    // {
+####    {
 ####    //  localize in JSON
-####    // },
-####    // {
+####    },
+
+####    {
 ####    //  localize in JSON
-####    // } 
+####    } 
 ####    // and etc.
 #### ]
 ___
@@ -141,12 +144,13 @@ ___
 ___
 #### [
 ####    // here write your mod packets in JSON format with:
-####    // {
+####   {
 ####    //  packet in JSON
-####    // },
-####    // {
+####   },
+
+####   {
 ####    //  packet in JSON
-####    // } 
+####    } 
 ####    // and etc.
 #### ]
 ___
