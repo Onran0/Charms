@@ -22,7 +22,7 @@ Charms is simple ModLoader for old versions of Minecraft
 
 ## **Installation**
 ### Client
-- Install JRE or JDK version 8+ (You can also install Java 7-6, but we do not recommend it, since everyone is switching to 8 and some errors may occur)
+- Install JRE or JDK version 8+
 #### ***RECOMMENDED: [Azul Zulu](https://www.azul.com/downloads/)***
 - Download the required release
 
