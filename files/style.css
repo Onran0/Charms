@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-image: url('bg.png');
+  height: 100%;
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    src: url('minecraft.ttf');
+}
+
+.grtitle {
+  text-decoration: none;
+  margin: 10px 10px;
+  margin-left: 0%;
+  border-radius: 30px;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 55px;
+  font-weight: bold;
+  color: white;
+  transition: .5s;
+  background: -webkit-linear-gradient(#eee , #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+}
+
+.title {
+  text-decoration: none;
+  margin: 10px 10px;
+  margin-left: 0%;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 55px;
+  font-weight: bold;
+  color: white;
+  transition: .5s;
+}
+
+.boldtext {
+  text-decoration: none;
+  margin: 10px 10px;
+  margin-left: 0%;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: Minecraft;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  transition: .5s;
+}
+
+.text {
+  text-decoration: none;
+  margin: 10px 10px;
+  margin-left: 0%;
+  text-align: center;
+  letter-spacing: 2px;
+  font-family: Minecraft;
+  font-size: 20px;
+  font-weight: normal;
+  color: white;
+  transition: .5s;
+}
+
+.disabledbutton {
+  text-decoration: none;
+  display: grid;
+  padding: 14px 145px;
+  margin: 20px 600px;
+  background-image: url("disabledbutton.png");
+  background-position: 100% 0;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  background-size: 100% 100%;
+  height: 7%;
+  width: 25%;
+  font-family: Minecraft;
+  font-size: 20px;
+  /* font-weight: bold; */
+  align-items: center;
+  justify-content: center;
+  color: #949494;
+  transition: 0.15s;
+}
+
+.button {
+  text-decoration: none;
+  display: grid;
+  padding: 14px 145px;
+  margin: 20px 600px;
+  background-image: url("button.png");
+  background-position: 100% 0;
+  /* text-transform: uppercase; */
+  letter-spacing: 1px;
+  background-size: 100% 100%;
+  height: 7%;
+  width: 25%;
+  font-family: Minecraft;
+  font-size: 20px;
+  /* font-weight: bold; */
+  align-items: center;
+  justify-content: center;
+  color: white;
+  transition: 0.15s;
+}
+
+.button:hover {
+  background-image: url("clickedbutton.png");
+  color: #fff87a;
+}
+
+.clearimg {
+  text-decoration: none;
+  display: block;
+  padding: 12px 40px;
+  margin: 10px auto 20px;
+  border-radius: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-size: 200% 200%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  transition: .5s;
+}
+
+.img {
+  text-decoration: none;
+  display: block;
+  padding: 12px 40px;
+  margin: 10px auto 20px;
+  border-radius: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-size: 200% 200%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  box-shadow: 0 16px 32px 0 rgba(12, 235, 12, .25);
+  transition: .5s;
+}
+
+.img:hover {
+  box-shadow: 0 16px 32px 0 rgba(235, 12, 12, .25);
+}
