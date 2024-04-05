@@ -1,4 +1,4 @@
-![Charms](./Images/Icon.jpg)
+![Charms](./Images/Icon.png)
 
 **Charms** - is a simple mod loader for older versions of Minecraft.
 
