@@ -1,6 +1,6 @@
 ![Charms](./Images/Icon.jpg)
 
-#**Charms** is a simple mod loader for older versions of Minecraft.
+**Charms** - is a simple mod loader for older versions of Minecraft.
 
 ## **Features**
 
